@@ -1,0 +1,74 @@
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe.config
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.pdb
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csprojAssemblyReference.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Lotes.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Proceso.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Properties.Resources.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.GenerateResource.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.CoreCompileInputs.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.pdb
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe.config
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.pdb
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csprojAssemblyReference.cache
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Lotes.resources
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Proceso.resources
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Properties.Resources.resources
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.GenerateResource.cache
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.CoreCompileInputs.cache
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.exe
+F:\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.pdb
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe.config
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.pdb
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csprojAssemblyReference.cache
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Lotes.resources
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Proceso.resources
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Properties.Resources.resources
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.GenerateResource.cache
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.CoreCompileInputs.cache
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.exe
+C:\Users\cuauh\Documents\INCO\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.pdb
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe.config
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.pdb
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csprojAssemblyReference.cache
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Lotes.resources
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Proceso.resources
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Properties.Resources.resources
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.GenerateResource.cache
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.CoreCompileInputs.cache
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.exe
+F:\Actividad 2\Nueva carpeta\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.pdb
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csprojAssemblyReference.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Lotes.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Properties.Resources.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.GenerateResource.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.CoreCompileInputs.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.pdb
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe.config
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.pdb
+F:\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe.config
+F:\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.exe
+F:\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.pdb
+F:\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe
+F:\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.pdb
+F:\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Lotes.resources
+F:\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Properties.Resources.resources
+F:\Seminario de sistemas operativos\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe.config
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.exe
+C:\Users\Pedro\Desktop\Seminario Sistemas Operativos\Seminario de sistemas operativos - Cuauhtli\Actividad 4\Procesamiento por lotes\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.pdb
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\Programas\Procesamiento por lotes 2\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe.config
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\Programas\Procesamiento por lotes 2\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.exe
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\Programas\Procesamiento por lotes 2\Procesamiento por lotes\bin\Debug\Procesamiento por lotes.pdb
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\Programas\Procesamiento por lotes 2\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csprojAssemblyReference.cache
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\Programas\Procesamiento por lotes 2\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Lotes.resources
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\Programas\Procesamiento por lotes 2\Procesamiento por lotes\obj\Debug\Procesamiento_por_lotes.Properties.Resources.resources
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\Programas\Procesamiento por lotes 2\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.csproj.GenerateResource.cache
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\Programas\Procesamiento por lotes 2\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.exe
+C:\Users\Jose Armando\Desktop\UdeG\6° SEMESTRE\SEM SIS OPER\Ejemplos\Programas\Procesamiento por lotes 2\Procesamiento por lotes\obj\Debug\Procesamiento por lotes.pdb
